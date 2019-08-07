@@ -1,0 +1,15 @@
+12345test
+a
+b
+<<<<<<< HEAD
+conflict
+=======
+c柚木
+>>>>>>> 66daf9d22b424e4d747a3e274fa70962cc3b80a8
+d
+e
+
+柚木の変更
+
+
+kinoko no 追加
